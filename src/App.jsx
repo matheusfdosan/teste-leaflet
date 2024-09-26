@@ -6,7 +6,6 @@ import "./App.css"
 function App() {
   const position = [-23.6865, -46.6234]
 
-  // Definindo um novo ícone
   const customIcon = new L.Icon({
     iconUrl: markerIcon, // Caminho do ícone personalizado
     iconSize: [25, 41], // Tamanho do ícone
