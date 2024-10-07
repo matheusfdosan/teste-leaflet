@@ -70,5 +70,14 @@
       "city": "Diadema"
     },
     "type": "Educational Institution"
+  },
+  {
+    "name": "Centro de Diadema",
+    "location": {
+      "lat": -23.68524,
+      "long": -46.620502,
+      "city": "Diadema"
+    },
+    "type": "Center Of City"
   }
 ]
