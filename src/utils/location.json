@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Parque do Paço",
+    "location": {
+      "lat": -23.682255,
+      "long": -46.620854,
+      "city": "Diadema"
+    },
+    "type": "Park"
+  },
+  {
+    "name": "Shopping Praça da Moça",
+    "location": {
+      "lat": -23.686726,
+      "long": -46.620166,
+      "city": "Diadema"
+    },
+    "type": "Shopping Mall"
+  },
+  {
+    "name": "Hospital Municipal de Diadema",
+    "location": {
+      "lat": -23.692888,
+      "long": -46.616991,
+      "city": "Diadema"
+    },
+    "type": "Hospital"
+  },
+  {
+    "name": "Terminal Diadema",
+    "location": {
+      "lat": -23.686508,
+      "long": -46.622395,
+      "city": "Diadema"
+    },
+    "type": "Bus Terminal"
+  },
+  {
+    "name": "Biblioteca Olíria de Campos Barros",
+    "location": {
+      "lat": -23.683158,
+      "long": -46.620798,
+      "city": "Diadema"
+    },
+    "type": "Library"
+  },
+  {
+    "name": "Teatro Clara Nunes",
+    "location": {
+      "lat": -23.686245,
+      "long": -46.619569,
+      "city": "Diadema"
+    },
+    "type": "Theater"
+  },
+  {
+    "name": "Praça Lauro Michels",
+    "location": {
+      "lat": -23.685823,
+      "long": -46.620207,
+      "city": "Diadema"
+    },
+    "type": "Square"
+  },
+  {
+    "name": "Escola Técnica Estadual de Diadema (ETEC)",
+    "location": {
+      "lat": -23.683981,
+      "long": -46.615789,
+      "city": "Diadema"
+    },
+    "type": "Educational Institution"
+  }
+]
