@@ -14,7 +14,7 @@ const LeafletMap = () => {
   return (
     <MapContainer
       className="mapPane"
-      center={[-23.685240, -46.620502]}
+      center={[-23.68524, -46.620502]}
       zoom={13}
       scrollWheelZoom={true}
     >
@@ -23,9 +23,12 @@ const LeafletMap = () => {
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
       {locationData.map((data, index) => (
-        <Marker key={data.id || index} position={[data.location.lat, data.location.long]}>
+        <Marker
+          key={data.id || index}
+          position={[data.location.lat, data.location.long]}
+        >
           <Tooltip>
-            <b>{data.location}</b>
+            <b>{data.name}</b> {/* Nome do local exibido no Tooltip */}
           </Tooltip>
         </Marker>
       ))}
